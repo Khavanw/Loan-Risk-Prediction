@@ -17,27 +17,23 @@ pip install pandas numpy scikit-learn xgboost
 ## Cấu trúc dự án
 
 loan-risk-prediction/
-│
-├── best_model/
-│   ├── best_pipeline.joblib  
-│   ├── best_pipeline.pkl
-│   └── random_forest_model.joblib
-│
-├── data/
-│   ├── credit_risk_dataset1.csv
-│   ├── credit_risk_dataset2.csv
-│   └── loan_data.csv
-│
-├── images/
-│
-├── scripts/
-│   ├── Credit_Prediction.ipynb
-│   ├── Loan_Prediction.ipynb
-│   └── pipeline.ipynb
-│
-├── app.py
-├── requirements.txt
-└── README.md
+- best_model/
+  - best_pipeline.joblib
+  - best_pipeline.pkl
+  - random_forest_model.joblib
+- data/
+  - credit_risk_dataset1.csv
+  - credit_risk_dataset2.csv
+  - loan_data.csv
+- images/
+- scripts/
+  - Credit_Prediction.ipynb
+  - Loan_Prediction.ipynb
+  - pipeline.ipynb
+- app.py
+- requirements.txt
+- README.md
+
 
 
 ## Quy trình thực hiện
