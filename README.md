@@ -32,8 +32,7 @@ loan-risk-prediction/
 │
 ├── scripts/
 │   ├── Credit_Prediction.ipynb
-│   ├── Loan_Prediction.ipynb
-│   └── pipeline.ipynb
+│   └── Loan_Prediction.ipynb
 │
 ├── app.py
 ├── requirements.txt
@@ -45,11 +44,12 @@ loan-risk-prediction/
 ## Implementation process
 
 1. **Data Collection and Preprocessing**
-   - Data cleaning
+   - Data cleaning ()
    - Handling missing values
    - Encoding categorical variables
 
 2. **Exploratory Data Analysis (EDA)**
+   - Customer Analysis
    - Visualize variable distributions
    - Analyze correlations
 
@@ -66,6 +66,9 @@ loan-risk-prediction/
 
 5. **Model Evaluation**
    - Use metrics such as accuracy, precision, recall, F1-score, and AUC-ROC
+  
+6. **Deployment Model**
+   - Using Streamlit App
 
 ## User Guide
 
