@@ -56,6 +56,7 @@ loan-risk-prediction/
 3. **Feature Engineering**
    - Create new features
    - Normalize features
+   - SMOTE for Imbalanced data
 
 4. **Model Building and Training**
    - Logistic Regression
