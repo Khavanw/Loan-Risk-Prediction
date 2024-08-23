@@ -12,7 +12,7 @@ Dự án này nhằm xây dựng một mô hình dự đoán rủi ro cho vay s�
 
 Bạn có thể cài đặt các thư viện cần thiết bằng lệnh:
 
-pip install pandas numpy scikit-learn xgboost
+"""pip install pandas numpy scikit-learn xgboost"""
 
 ## Cấu trúc dự án
 
