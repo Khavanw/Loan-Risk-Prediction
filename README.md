@@ -39,6 +39,7 @@ loan-risk-prediction/
 ├── requirements.txt
 └── README.md
 
+
 ## Quy trình thực hiện
 
 1. **Thu thập và tiền xử lý dữ liệu**
