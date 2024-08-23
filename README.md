@@ -1,4 +1,4 @@
-# Loan Risk Prediction
+# [Loan Risk Prediction] using Algorithm Machine Learning
 
 ## Introduction
 This project aims to build a loan risk prediction model using machine learning algorithms. The goal is to predict the likelihood of a loan default based on the borrower's characteristics and loan features.
