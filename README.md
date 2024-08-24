@@ -3,17 +3,6 @@
 ## Introduction
 This project aims to build a loan risk prediction model using machine learning algorithms. The goal is to predict the likelihood of a loan default based on the borrower's characteristics and loan features.
 
-## Requirements
-- Python 3.7+
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-
-You can install the required libraries using the command:
-
-```pip install pandas numpy scikit-learn xgboost```
-
 ## Project structure
 ```
 loan-risk-prediction/
@@ -38,7 +27,6 @@ loan-risk-prediction/
 ├── requirements.txt
 └── README.md
 ```
-
 
 
 ## Implementation process
@@ -89,6 +77,16 @@ For XGBoost, we use GridSearchCV to find the optimal hyperparameters. The parame
 - n_estimators
 - subsample
 
+## Requirements
+- Python 3.7+
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+
+You can install the required libraries using the command:
+
+```pip install pandas numpy scikit-learn xgboost```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
